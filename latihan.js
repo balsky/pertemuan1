@@ -52,3 +52,6 @@ console.log ("Apakah hari ini hujan?")
   //  console.log(angka1%angka2)
 //}
  
+
+
+
