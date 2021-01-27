@@ -23,3 +23,24 @@ DEFAULT DISPLAY "I love you"
 END
 
 */
+var angka = 6;
+
+switch (angka) {
+  case 1:
+    console.log("Coba lagi ya");
+    break;
+  case 2:
+    console.log("selamat kamu mendapat kupon sebanyak 5");
+    break;
+  case 3:
+    console.log("selamat kamu mendapatkan kupon sebanyak 15");
+    break;
+  case 4:
+    console.log("selamat kamu mendapat kupon sebanyak 50");
+    break;
+  case 5:
+    console.log("WOW, kamu menang jackpot! Selamat!!");
+    break;
+  default:
+    console.log("I Love Bang Arif");
+}

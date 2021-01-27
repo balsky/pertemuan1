@@ -13,24 +13,24 @@
 // NaN
 // NULL
 
-var cuaca = "";
+var cuaca = "hujan";
 
-console.log ("Apakah hari ini hujan?")
+// console.log ("Apakah hari ini hujan?")
 
- if (cuaca === "hujan") {
-   console.log("bawa payung");
-  } else if(cuaca === "tidak hujan");{
-   console.log("tidak bawa payung");
-  }
+//  if (cuaca === "hujan") {
+//    console.log("bawa payung");
+//   } else if(cuaca === "tidak hujan");{
+//    console.log("tidak bawa payung");
+//   }
 
-// switch ("hujan kah?") {
-//   case "hujan":
-//     console.log("bawa payung");
-//     break;
-//   default:
-//     console.log("tidak hujan");
-//     break;
-// }
+switch ("hujan kah?") {
+  case "hujan":
+    console.log("bawa payung");
+    break;
+  default:
+    console.log("tidak hujan");
+    break;
+}
 
 // if (angka1 < angka2) {
 //     console.log(angka1+" Lebih kecil dari "+angka2)
